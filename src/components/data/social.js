@@ -12,9 +12,9 @@ export const SocialData = [
 
     },
     {
-        platform: "Facebook",
-        link: "https://www.facebook.com/lakshay.bhatia.507",
-        icon: require("../../assets/icons/facebook.png"),
+        platform: "Youtube",
+        link: "https://www.youtube.com/user/lakshaybhatia100/videos",
+        icon: require("../../assets/icons/youtube.png"),
     },
     {
         platform: "LinkedIn",
