@@ -17,7 +17,7 @@ export const WorkData = [
         work:"Functioned as an Automation Cloud Developer, crafting automation solutions through various SaaS platforms and creating Automation APIs using tools such as Autocode, Zapier, Integromat, and more"
     },
     {
-        company:"Imanent Solution, Mohali,India",
+        company:"Immanent Solution, Mohali,India",
         designation:"Software Engineer Intern",
         dateJoining:"21/09/2020",
         dateEnd:"30/11/2020",
