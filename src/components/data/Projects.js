@@ -2,7 +2,7 @@ export const ProjectData = [
     {
           id: 1,
           title: "Instagram Clone",
-          about: "Instgram clone is a react App , I have both front-end and backend created using React Js, Node Js, Mongo DB and used Context API for state management",
+          about: "The Instagram clone is a React application featuring both front-end and back-end components developed using React.js, Node.js, and MongoDB. The Context API has been employed for efficient state management.",
           tags:["Reactjs","nodejs","MongoDB","HTML","CSS","JavaScript"],
           demo:"https://instaclone2020.herokuapp.com/signup",
           github: "https://github.com/LAKSHAY-BHATIA/instagram-clone-fullstack",
@@ -12,7 +12,7 @@ export const ProjectData = [
     {
         id: 2,
         title: "Youtube Clone App",
-        about: "The Instagram clone is a React application featuring both front-end and back-end components developed using React.js, Node.js, and MongoDB. The Context API has been employed for efficient state management.",
+        about: "The YouTube Clone App is developed using React Native and React Redux, replicating the functionality of YouTube. This app is compatible with both Android and iOS mobile platforms, with Google API seamlessly integrated as the backend.",
         tags:["React Native","JavaScript"],
         demo:"https://www.youtube.com/watch?v=vuShdsWRwvI&t=54s",
         github: "https://github.com/LAKSHAY-BHATIA/youtubee-clone-react-native-app",
@@ -22,7 +22,7 @@ export const ProjectData = [
   {
     id: 3,
     title: "OCR with Speech Convertor",
-    about: "OCR with Speech Convertor is  a reading assistance device for visually impaired which is based on raspberry pi with a camera module and used cloud computing to convert image to text and text to speech.",
+    about: "Designed a Home Automation project enabling the remote control of diverse electrical appliances. Users could manage devices either through a dedicated app or via voice assistants such as Google Assistant and Amazon Alexa.",
     tags:["GCP","Cloud","Raspberry Pi","OCR"],
     demo:"https://www.youtube.com/watch?v=cyPN54Va5FQ",
     github: "https://www.youtube.com/watch?v=cyPN54Va5FQ",
