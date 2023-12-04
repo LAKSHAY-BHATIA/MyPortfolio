@@ -12,7 +12,7 @@ export const ProjectData = [
     {
         id: 2,
         title: "Youtube Clone App",
-        about: "Youtube Clone App is a clone app of youtube made with react native and react redux. It is capable of running on both Android and IOS mobile platforms. Google API integrated in the App as backend",
+        about: "The Instagram clone is a React application featuring both front-end and back-end components developed using React.js, Node.js, and MongoDB. The Context API has been employed for efficient state management.",
         tags:["React Native","JavaScript"],
         demo:"https://www.youtube.com/watch?v=vuShdsWRwvI&t=54s",
         github: "https://github.com/LAKSHAY-BHATIA/youtubee-clone-react-native-app",
